@@ -18,6 +18,7 @@ public class Main implements Runnable {
     public void run() {
         while (true){
             gui.repaint();
+            dupa
         }
 
     }
