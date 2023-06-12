@@ -13,12 +13,12 @@ public class Main implements Runnable {
     }
 
 
-
+dddddd
     @Override // nadpisuje metode run z biblioteki Runnable
     public void run() {
         while (true){
             gui.repaint();
-            dupa
+        
         }
 
     }
